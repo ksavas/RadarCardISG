@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RadarCard ISG</string>
+
+    <string-array name="versions">
+
+        <item>ksvs</item>
+        <item>ksvsvs</item>
+        <item>ksvsvsvs</item>
+        <item>ksvsvsvsvs</item>
+        <item>ksvsvsvssvvs</item>
+        <item>ksvsvsvsvsvsvs</item>
+
+    </string-array>
+
+</resources>

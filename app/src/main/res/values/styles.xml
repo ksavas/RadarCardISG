@@ -1,0 +1,32 @@
+<resources>
+
+<!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.DayNight">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/trans</item>
+    <item name="colorPrimaryDark">@color/trans</item>
+    <item name="colorAccent">@color/trans</item>
+    <item name="android:actionBarSize">@dimen/bar_height</item>
+</style>
+<style name="SwitchTheme" parent="Theme.AppCompat.Light">
+    <item name="colorControlActivated">#3DD84C</item>
+    <item name="colorSwitchThumbNormal">#C50016</item>
+</style>
+    <style name="test" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/trans</item>
+        <item name="colorPrimaryDark">@color/trans</item>
+        <item name="colorAccent">@color/trans</item>
+        <item name="android:actionBarSize">@dimen/bar_height</item>
+    </style>
+
+    <style name="MyTabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/MyTabTextAppearance</item>
+    </style>
+
+    <style name="MyTabTextAppearance" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+</resources>
