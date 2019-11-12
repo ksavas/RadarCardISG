@@ -17,25 +17,10 @@ Uygulama, Android Studio ile java programlama dili kullanılarak geliştirildi. 
 UI tarafı, başlangıçta xml olarak düzenleniyordu. Daha sonra uygulamanın dinamizmi açısından gerekli görüldüğü için bütün tasarım java programlama dili, android UI kütüphanelerinden faydalanılarak baştan düzenlendi.
 
 ### Uygulamadan Görüntüler
-__Giriş Ekranı__
-<p align="center" > 
-Giriş Ekranı
-</p>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p1.png">
-</p>
-<p align="center" > 
-Görevler
-</p>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p2.png">
-</p>
-<p align="center" > 
-Teftişler
-</p>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p3.png">
-</p>
+
+|Giriş Ekranı | Görevler | Teftişler |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p1.png"> | <img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p2.png"> | <img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p3.png"> |
 
 ### Installing
 
