@@ -18,7 +18,7 @@ UI tarafı, başlangıçta xml olarak düzenleniyordu. Daha sonra uygulamanın d
 
 ### Uygulamadan Görüntüler
 
-|Giriş Ekranı | Görevler | Teftişler |
+| MainActivity.java | TaskProviderActivity.java | TaskActivity.java |
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p1.png"> | <img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p2.png"> | <img src="https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p3.png"> |
 
