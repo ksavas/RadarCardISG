@@ -17,9 +17,8 @@ Uygulama, Android Studio ile java programlama dili kullanılarak geliştirildi. 
 UI tarafı, başlangıçta xml olarak düzenleniyordu. Daha sonra uygulamanın dinamizmi açısından gerekli görüldüğü için bütün tasarım java programlama dili, android UI kütüphanelerinden faydalanılarak baştan düzenlendi.
 
 ### Prerequisites
+Giriş Ekranı
 ![alt text](https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p1.png)
-![alt text](https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p2.png)
-![alt text](https://raw.githubusercontent.com/ksavas/RadarCardISG/master/p3.png)
 ```
 Give examples
 ```
