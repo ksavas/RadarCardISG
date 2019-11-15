@@ -8,8 +8,6 @@ Uygulamayı kullanacak şirket personeli kendi kullanıcı adı ve şifresiyle u
 
 Teftiş edilen bölgeler switch buttonuyla tamam veya hayır şeklinde kaydedilecek. Teftiş edilip onay alamayan bölgelerdeki eksiklikler not edilerek kaydedilecek ve isteğe bağlı olarak teftiş edilen bölgelerin fotoğrafları çekilebilecek.
 
-Ayrıca kullanıcılar teftiş ettikleri bölgelere dair, varsa yorumlarını ve gerekli gördüğü durumlarda, teftiş bölgelerinin fotoğraflarını çekip o anki bölgeye kaydedebilecek.
-
 ## Teknolojiler
 
 Uygulama, Android Studio ile java programlama dili kullanılarak geliştirildi. Bazı operasyonlar için 3rd Party yazılımlardan destek alındı.
