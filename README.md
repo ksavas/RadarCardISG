@@ -1,5 +1,7 @@
 # Radar Card ISG
 
+[English](https://github.com/ksavas/RadarCardISG/blob/master/README.en.md)
+
 Şirketlerin çeşitli yerlerde kağıt üzerindeki onay kutularını işaretleyerek yaptıkları teftiş işlemlerinin, kağıt kullanılmadan telefon üzerinden kullanılmaya çalışılan bir mobil uygulama.
 
 Uygulama kapsamında,
