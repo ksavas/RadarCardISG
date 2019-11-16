@@ -14,7 +14,7 @@ The inspected regions will be stored as yes or no by switch control. Deficiencie
 
 The application was developed by android studio and java programming language. Some operations were supported by 3rd party softwares.
 
-The UI, was managed by xml in the begining but after that the dynamism of the application requires the managing the UI part by java programming language and android UI libraries. So the UI part also programmed by java programming language and its UI librarires.
+The UI, was designed by xml in the begining but after that the dynamism of the application requires the managing the UI part by java programming language and android UI libraries. So the UI part also programmed by java programming language and its UI librarires.
 
 ### Screenshots Of Application
 
