@@ -1,6 +1,6 @@
 # Radar Card ISG
 
-[Turkish](https://github.com/ksavas/RadarCardISG/blob/master/README.md)
+[Türkçe](https://github.com/ksavas/RadarCardISG/blob/master/README.md)
 
 A mobile application that transports the inspection processes of companies by checking the check boxes from paper to smart phone.
 
